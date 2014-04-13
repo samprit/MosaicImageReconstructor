@@ -1,0 +1,102 @@
+F:\5. opensoft\mosaiq\OS11\bin\Debug\OS11.exe.config
+F:\5. opensoft\mosaiq\OS11\bin\Debug\OS11.exe
+F:\5. opensoft\mosaiq\OS11\bin\Debug\OS11.pdb
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\WpfAnimatedGif.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+F:\5. opensoft\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\WpfAnimatedGif.xml
+F:\5. opensoft\mosaiq\OS11\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\MainWindow.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\ResourceDictionary1.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\settingWindow.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\MainWindow.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\settingWindow.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\App.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\App.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\SampleData\TornImagesSampleData\TornImagesSampleData.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.g.resources
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.exe
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\OS11.exe.config
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.exe
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\OS11.exe
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\OS11.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\System.Windows.Interactivity.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\WpfAnimatedGif.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\System.Windows.Interactivity.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\WpfAnimatedGif.xml
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.csprojResolveAssemblyReference.cache
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\MainWindow.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\ResourceDictionary1.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\settingWindow.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\Views\HomePageView.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\Views\MosaicView.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\MainWindow.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\settingWindow.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\App.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\App.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\SampleData\TornImagesSampleData\TornImagesSampleData.baml
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.g.resources
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+F:\5. opensoft\mosaiq - Copy\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11.csprojResolveAssemblyReference.cache
+F:\5. opensoft\mosaiq\OS11\bin\Debug\images\output67.jpg
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\HelpPage.baml
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\HelpPage.g.cs
+F:\5. opensoft\mosaiq\OS11\obj\x86\Debug\OS11_Content.g.cs
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Newtonsoft.Json.dll
+F:\5. opensoft\mosaiq\OS11\bin\Debug\Newtonsoft.Json.xml

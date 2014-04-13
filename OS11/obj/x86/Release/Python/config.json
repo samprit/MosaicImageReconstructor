@@ -1,0 +1,12 @@
+{
+	"variancePercentage" : "0.5",
+	"meanPercentage" : "0.5",
+	"arcLengthmultiplier" : "10",
+	"minVarianceThreshold" : "0" ,
+	"noiseReduction" : "1",
+	"scaleFactor" : "1000",
+	"meanDiffThreshold" : "0",
+	"maxVariance" : "0",
+	"approxPolyparameter" : "0.07",
+	"multiEdge" : "1"
+}

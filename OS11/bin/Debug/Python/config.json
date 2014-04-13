@@ -1,0 +1,8 @@
+{
+	"arcLengthmultiplier" : "10",
+	"noiseReduction" : "1",
+	"scaleFactor" : "1000",
+	"approxPolyparameter" : "0.04",
+	"multiEdge" : "1",
+	"backgroundThreshold" : "5"
+}

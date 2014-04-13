@@ -1,0 +1,12 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="OS11.startPage"
+	x:Name="Window"
+	Title="startPage"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot">
+		<Button Content="hello" HorizontalAlignment="Left" Height="122.388" Margin="163.164,135.687,0,0" VerticalAlignment="Top" Width="235.821"/>
+	</Grid>
+</Window>
